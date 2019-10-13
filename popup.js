@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         d = document;
   
         var f = d.createElement('form');
-        f.action = 'http://drive.google.com';
+        f.action = 'http://gtmetrix.com/analyze.html?bm';
         f.method = 'post';
         var i = d.createElement('input');
         i.type = 'hidden';
