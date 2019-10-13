@@ -12,4 +12,10 @@
   "permissions": [
    "activeTab"
    ]
+
+"background_page": "background.html",
+"permission": [ "tabs" ],
+if (condition == true) {
+chrome.tabs.create({url:"popup.html"});
+}
 }
