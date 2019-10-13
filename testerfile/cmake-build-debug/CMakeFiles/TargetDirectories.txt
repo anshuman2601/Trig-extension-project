@@ -1,0 +1,3 @@
+/Users/deepika.sriram135/Desktop/Trig-extension-project/testerfile/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/deepika.sriram135/Desktop/Trig-extension-project/testerfile/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/deepika.sriram135/Desktop/Trig-extension-project/testerfile/cmake-build-debug/CMakeFiles/testerfile.dir
